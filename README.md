@@ -1,5 +1,5 @@
 this is an e-commerce customer Churn Analysis project using Python and SQL And an update project in Power BI <br><br>
-**This visualization is before the train model**
+**This visualization is before the train model** <be>
 ![image](https://github.com/user-attachments/assets/dee2f1fa-b63f-42e2-a9a7-b1c6f2dc7125)
 
 
